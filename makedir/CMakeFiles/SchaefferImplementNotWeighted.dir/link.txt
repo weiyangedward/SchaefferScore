@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++0x -O3 -Wno-deprecated   CMakeFiles/SchaefferImplementNotWeighted.dir/main.cpp.o CMakeFiles/SchaefferImplementNotWeighted.dir/Clustering.cpp.o CMakeFiles/SchaefferImplementNotWeighted.dir/Orthology.cpp.o CMakeFiles/SchaefferImplementNotWeighted.dir/SpeciesNetwork.cpp.o  -o SchaefferImplementNotWeighted 
